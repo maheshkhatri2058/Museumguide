@@ -1,0 +1,13 @@
+[{
+  "type": "service_account",
+  "project_id": "musey-chatbot-for-museum--9ikv",
+  "private_key_id": "f8599d55a0ffc2fab2cd224e8420bdc22adfef8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCX/qdkdtilMWa8\nceQYUe9foAbFKm23L/W73k0oStbZOr1azJR1AWAk/8kkUFcvZ9KKLtTjwvNUQ2WV\nyIZQNW1EN6RN9fmgrtKRdh8MxDZCp0uIOrXPVBNUeOtnRca2AT3FXITEwYVJEprc\nvPHk5qbsCAh+OwLRI9oyz51VUwy+3wHojVDgwdanQa+bQwoYzSD2V+0kWtSKhU4I\nNWE9Q0A31rocvG5V64ULMWmXATOqyeU4F7UgLIDHzEzRRMrVZ6GZl6ovqboY1Xm4\nTxFJkiHag+NmPXLn7qJphaJq+mZ3X8GvVS7YylPTsHFdM5kXxbyC0tHPT2UDx8hn\nwAYBaq+zAgMBAAECggEAEzAL+bF3JVjYhgRAA0H0sgxa+Ruja3NxK3JOKJP/Y2pN\nlTTWWPRU1YGPkYytikfVBaoRKLTnpZo3LMglDI3HaXaMwLrDSfbykM0Um7akEu4D\nqa2fs2NYaAWL0icLhYEf8dZS0ck3BkPZq5wT/WLmF6M7+ejWhjMRzJr2WwXM9MYI\nVrCjwyhysWY85nU5XfXUwlGWlP4kuch3Dt4aDj4GPcrRT0GJ9V+M0/0GmxU3Vyup\nxq+eht6LP/sU3EihNJCc9xj2Lh9gg1uKK5daBYfjd5kQk284MwjFBgdcUeYZfQfk\nogUV3Ia8n0PoCt+3mUrmVT/CQqQHh/mhiLoxu7Xj4QKBgQDWbhrcDg1K0pYDyMxm\nusufeo+D/N2cRJOmCW49Kln8FzLQhZm9XLRPK/gQ0x6z9opYj78Xl9KAzkasurFQ\nYFAVIEeg+3+BxDzw4FPCBHwPlG9u3332QwdqoLmG8wt9fJpZIhbUcGUINAnJZXNE\nJeP4FffpZs0QCUXlG0QyiX2pzwKBgQC1dfYIHfOcuvBLAvUOH9s3thbFcu0DtslS\ncuFvMTuPGOR3XjH1yFylHYGMf4b/jDftyVmRaJd9ZoiR38gopiGxHnzNM/4zIUU7\nBL1fyWE1+hv1Zd9ZQiUkmIPAlNyxhAgm72HWgBmYLRBWO+pWZhu0KlNFFHBb82qd\nDCwfsZ1o3QKBgC3ctM/2DW/AZKeAjf822pBMhV+EeN2QaUfs4nAgm8hoKc0hlgVD\nS6lXTSJEFWAGTgatEAD6zuIPvFv7Pitjvh0Wn1tWDypxD1uxjxiDHwmyBLdhA67l\nHTP4FlY/q2h2ewivWtSrCWDcyG8TzLh5pi2MfU6lVxyj7xgWYdqxP3hPAoGARUrw\nUpUta9Iu5FYSwfwEODf+ZhPG0j5Ajo1z7IP+XFyDEdoUdei3CA5GZCJmqLsguFrF\nKzOndalryViNFIisIPila67JCTlROIJM1oEN8BC8EG+AZJNPn7Ply+qMg/UJL+UF\nlWWBYI0EyglDKQ8A0UHAXoa5iUNgmOwHBWtL0rkCgYBC7bmA7VJqJf7MMpAL+Nwf\nLUv7h8apPdDclaxhay7Ryt72I+N8vNxWLCzXGZGWw2Ilr+hhU0V2/Nadj2Sopf57\n4FFG9r7hcMh9a7Wa1kHBXg7yNKSVgzmVxWh01pVdXmqMN+Ay5Ej3r6mvSJz/qU6a\nh0MgYlwC2Mw5KjYwugKnyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "musey-235@musey-chatbot-for-museum--9ikv.iam.gserviceaccount.com",
+  "client_id": "108376921774247961763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/musey-235%40musey-chatbot-for-museum--9ikv.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}]

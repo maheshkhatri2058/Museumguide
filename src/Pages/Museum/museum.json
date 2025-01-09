@@ -1,0 +1,258 @@
+[
+    {
+      "name": "Government Museum",
+      "url":"https://bangaloretourism.in/images/v2/headers/government-museum-bangalore-timings-entry-fee-bangalore-tourism-header-cr-skylinegtr.jpg",
+      "location": "Kasturba Road, Bangalore",
+      "description": "One of the oldest museums in India, housing an extensive collection of artifacts, sculptures, and paintings from various eras. Established in 1865, the Government Museum is one of the oldest museums in India. It houses a vast collection of artifacts, including ancient coins, inscriptions, sculptures, and paintings. The museum showcases items from the Neolithic age to the Vijayanagara Empire, providing a rich historical narrative of Karnataka and India.Halmidi inscription (the earliest known Kannada inscription), artifacts from Mohenjo-Daro, and exquisite bronze sculptures",
+      "activities":  "Viewing ancient coins and inscriptions Exploring archaeological artifacts Learning about regional history",
+      "opening_time": "10:00 AM",
+      "closing_time": "5:00 PM",
+      "tickets": "adults: 20,children: 10,foreigners: 250"
+    },
+    {
+      "name": "Visvesvaraya Industrial and Technological Museum",
+      "url":"https://1.bp.blogspot.com/-XgyvSnbKQlA/XaHYxs5ahLI/AAAAAAAAABQ/kgcaMqJpHFUkyAKg638UjCA4GiuX8mPWwCEwYBhgL/s1600/Technological%2BMuseum.jpg",
+      "location": "Cubbon Park, Bangalore",
+      "description": "An interactive museum dedicated to science and technology, named after Sir M. Visvesvaraya. A tribute to Sir M. Visvesvaraya, India’s eminent engineer, this museum blends education and entertainment. It features interactive exhibits on science, engineering, and technology, making it a favorite among students and enthusiasts.Dinosaur models, a replica of the Wright brothers' aircraft, and galleries on electronics, space exploration, and robotics.",
+      "activities":  "Hands-on science experiments, Exploring engineering models, Participating in educational workshops",
+      "opening_time": "9:30 AM",
+      "closing_time": "6:00 PM",
+      "tickets":  "adults: 75,children: 50,students: 20"
+    },
+    {
+      "name": "National Gallery of Modern Art (NGMA)",
+      "url":"https://www.hoteldekho.com/storage/img/tourattraction/16434621883391638341_3c910f6805_b.jpg",
+      "location": "Palace Road, Bangalore",
+      "description": "Showcases an extensive collection of modern and contemporary Indian art in a serene setting.India’s first aerospace museum, the HAL Heritage Centre, is dedicated to the evolution of aviation in the country. Managed by Hindustan Aeronautics Limited, it showcases aircraft models, engines, and a history of aviation advancements in India.Vintage aircraft displays, flight simulators, and exhibits on Indian aerospace history.",
+      "activities": 
+        "Viewing artwork by renowned artists,Attending art workshops,Exploring temporary exhibitions",
+    
+      "opening_time": "10:00 AM",
+      "closing_time": "5:00 PM",
+      "tickets":  "adults: 20, children: 10,foreigners: 500"
+    
+    },
+    {
+      "name": "HAL Heritage Centre and Aerospace Museum",
+      "url":"https://tariqsp.com/wp-content/uploads/2023/02/hal-heritage-centre-and-aerospace-museum-bangalor.jpeg",
+      "location": "Old Airport Road, Bangalore",
+      "description": "A museum dedicated to India’s aviation history, featuring aircraft models, engines, and simulators.India’s first aerospace museum, the HAL Heritage Centre, is dedicated to the evolution of aviation in the country. Managed by Hindustan Aeronautics Limited, it showcases aircraft models, engines, and a history of aviation advancements in India.Vintage aircraft displays, flight simulators, and exhibits on Indian aerospace history.",
+      "activities": "Exploring vintage aircraft models,Learning about the evolution of aviation in India,Experiencing flight simulators",
+      "opening_time": "9:00 AM",
+      "closing_time": "5:00 PM",
+      "tickets":  "adults: 50,children: 30"
+    },
+    {
+      "name": "Karnataka Folk Museum",
+      "url":"https://media.tripinvites.com/places/mysore/folklore-museum/folklore-museum-featured.jpg",
+      "location": "Kanakapura Road, Bangalore",
+      "description": "A museum celebrating Karnataka’s rich folk culture through traditional costumes, instruments, and crafts.Located on the outskirts of Bangalore, this museum is a celebration of Karnataka’s vibrant folk traditions. It houses a rich collection of folk music instruments, costumes, masks, and sculptures, offering an insight into the state's rural culture and artistry.Live folk performances, a vast collection of rural artifacts, and an open-air theater.",
+      "activities": 
+        "Exploring traditional folk artifacts, Enjoying live folk music and dance performances,Learning about Karnataka's rural heritage",
+      "opening_time": "10:00 AM",
+      "closing_time": "5:00 PM",
+      "tickets":"adults: 40,children: 20"
+    },
+    {
+        "name": "Salar Jung Museum",
+        "url": "https://www.mapsofindia.com/ci-moi-images/my-india/Salar-Jung-museum.jpg",
+        "location": "Dar-ul-Shifa, Hyderabad",
+        "description": "One of the largest museums in the world, showcasing a diverse collection of art, antiques, and manuscripts from various countries. It was established in 1951 and holds the personal collection of Nawab Mir Yousuf Ali Khan, Salar Jung III.The Salar Jung Museum is an iconic landmark in Hyderabad and one of the largest museums in the world. Established in 1951, it showcases the extraordinary personal collection of Nawab Mir Yousuf Ali Khan, popularly known as Salar Jung III. The museum’s exhibits span a wide range of artistic and historical artifacts, including sculptures, paintings, textiles, ceramics, and manuscripts, sourced from India, Europe, the Middle East, and the Far East. The museum is divided into several galleries, each dedicated to a specific region or theme, offering visitors a deep dive into the rich cultural and artistic heritage of the world. Notable treasures include the Veiled Rebecca statue, a 19th-century masterpiece, and antique clocks in the Clock Room, which are major attractions.",
+        "activities": "Exploring ancient artifacts, Viewing Persian carpets and jade artifacts, Learning about global art and culture",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 20, children: 10, foreigners: 500"
+      },
+      {
+        "name": "Chowmahalla Palace",
+        "url": "https://www.holidify.com/images/cmsuploads/compressed/13761119445755c029184b_20220523165504.jpeg",
+        "location": "Khilwat, Hyderabad",
+        "description": " The Chowmahalla Palace is a magnificent palace complex that served as the official residence of the Nizams of Hyderabad. The name Chowmahalla translates to “Four Palaces,” reflecting its grand layout and design. Built in the 18th century, the palace is a perfect blend of Persian, Mughal, and European architectural styles. Visitors are awestruck by the grandeur of the Khilwat Mubarak, the heart of the palace, which houses the royal throne. The palace also features lush gardens, fountains, and intricate stucco work that evoke the opulence of the Nizam era. Inside, the museum showcases royal artifacts, including ceremonial robes, vintage cars, and a variety of historical relics, making it a living testament to Hyderabad’s regal past.A stunning palace complex that once served as the seat of the Asaf Jahi dynasty. The museum features royal artifacts, vintage cars, and the grandeur of Nizam-era architecture.",
+        "activities": "Exploring royal artifacts, Viewing vintage cars, Witnessing the grand Durbar Hall",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 80, children: 40, foreigners: 200"
+      },
+      {
+        "name": "Nizam's Museum",
+        "url": "https://www.travelworldplanet.com/wp-content/uploads/2022/05/Chowmahalla-Palace-Hyderabad.jpg",
+        "location": "Purani Haveli, Hyderabad",
+        "description": "A museum dedicated to the treasures of the Nizams of Hyderabad, featuring their personal belongings, including a gold-studded throne and a replica of the Jacob diamond. The Nizam’s Museum, located in the stately Purani Haveli, offers a unique glimpse into the luxurious lifestyle of the Nizams, once among the wealthiest rulers in the world. The museum features a treasure trove of their personal belongings, including a gold-studded throne, diamond-encrusted stationary, and vintage automobiles. A replica of the world-famous Jacob diamond, one of the largest diamonds ever discovered, is also displayed here. Visitors can explore the intricately designed artifacts, exquisite furniture, and rare photographs, which highlight the grandeur and sophistication of the Nizams’ reign. The museum's setting within the beautiful Purani Haveli further adds to its charm, combining history and architecture in a serene environment.",
+        "activities": "Viewing Nizam-era treasures, Learning about the history of Hyderabad, Exploring antique furniture and artifacts",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 100, children: 50, foreigners: 200"
+      },
+      {
+        "name": "Telangana State Archaeology Museum",
+        "url": "https://www.hlimg.com/images/things2do/738X538/1_1550655026-2945e.jpg",
+        "location": "Public Gardens, Hyderabad",
+        "description": " The Telangana State Archaeology Museum, established in 1930, is the oldest museum in Hyderabad and a treasure trove of historical artifacts. It is renowned for its vast collection of Buddhist relics, including ancient stupas and sculptures, which provide a deep insight into the Buddhist heritage of Telangana. The museum also houses an Egyptian mummy, which attracts significant attention, alongside coins, manuscripts, and sculptures that date back centuries. Each gallery focuses on a different era, offering visitors a journey through the cultural and historical milestones of the region. The building’s Indo-Saracenic architecture adds a historic grandeur to the experience, making it a must-visit destination for history enthusiasts.The oldest museum in Hyderabad, showcasing a rich collection of Buddhist sculptures, ancient coins, and manuscripts. It also houses an Egyptian mummy.",
+        "activities": "Viewing the Egyptian mummy, Exploring Buddhist relics, Learning about Telangana's archaeological heritage",
+        "opening_time": "10:30 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 20, children: 10, foreigners: 200"
+      },
+      {
+        "name": "Birla Science Museum",
+        "url": "https://ihpl.b-cdn.net/pictures/travelguide/attractions/birla-planetarium-and-science-museum-head-2199.jpeg",
+        "location": "Hill Fort Road, Hyderabad",
+        "description": "The Birla Science Museum is a haven for science lovers, combining education with entertainment. Spread across multiple levels, it features a wide range of exhibits covering various scientific fields, including physics, biology, and space science. The museum also houses a popular planetarium, which conducts daily shows on astronomy and space exploration, captivating both children and adults. A unique highlight is the Dinosaurium, showcasing life-sized dinosaur models and fossils, including a rare 160-million-year-old dinosaur skeleton. The museum also features an archaeology center displaying ancient artifacts, making it an engaging destination for visitors of all ages. Its interactive and visually appealing exhibits ensure an educational and fun experience for families and school groups. A multi-dimensional museum featuring science exhibits, a planetarium, an archaeology center, and a dinosaurium with life-sized dinosaur models.",
+        "activities": "Exploring science exhibits, Watching a planetarium show, Viewing dinosaur models",
+        "opening_time": "10:30 AM",
+        "closing_time": "8:00 PM",
+        "tickets": "adults: 50, children: 25, planetarium: 100"
+      },
+      {
+        "name": "National Museum",
+        "url": "https://delhitourism.travel/images/places-to-visit/headers/national-museum-of-india-delhi-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "location": "Janpath, New Delhi",
+        "description": "The National Museum in New Delhi is one of the largest and most comprehensive museums in India, showcasing an extensive collection of art, archaeology, and anthropology. Established in 1949, the museum's galleries span over 5,000 years of Indian history, from the Indus Valley Civilization to contemporary times. Highlights include the world-famous Dancing Girl from Mohenjo-daro, ancient sculptures, medieval and Mughal miniatures, and exquisite Indian textiles. The museum also houses rare manuscripts and coins, as well as a gallery dedicated to Buddhist art. Its educational programs, special exhibitions, and interactive displays make it a central hub for cultural and historical learning.",
+        "activities": "Exploring ancient sculptures, Viewing rare manuscripts, Learning about Indian history and culture",
+        "opening_time": "10:00 AM",
+        "closing_time": "6:00 PM",
+        "tickets": "adults: 20, children: 10, foreigners: 650"
+      },
+      {
+        "name": "Indira Gandhi Memorial Museum",
+        "url": "https://www.historyhit.com/app/uploads/fly-images/5153664/NGM-1576x1074.jpg",
+        "location": "Safdarjung Road, New Delhi",
+        "description": "The Indira Gandhi Memorial Museum is the former residence of India's first female Prime Minister, Indira Gandhi. The museum offers an intimate and poignant look at her life, political journey, and her assassination in 1984. The residence has been preserved as a museum, displaying her personal belongings, photographs, and letters. The pathway where she was assassinated is marked by a glass canopy, serving as a powerful reminder of her sacrifice. Multimedia exhibits and rare footage further enhance the visitor experience, giving insights into her political achievements and her role in shaping modern India.",
+        "activities": "Exploring Indira Gandhi’s personal artifacts, Learning about her leadership and vision, Visiting the martyr’s column",
+        "opening_time": "9:30 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 25, children: 10, foreigners: 100"
+      },
+      {
+        "name": "Gandhi Smriti",
+        "url": "https://static.toiimg.com/photo/msid-44856038,width-96,height-65.cms",
+        "location": "Tees January Marg, New Delhi",
+        "description": "Gandhi Smriti, the former residence of Mahatma Gandhi, is a dedicated memorial to the life and teachings of India’s Father of the Nation. This serene place is where Gandhi spent his last days before his assassination in 1948. The museum features photographs, artifacts, and personal items of Gandhi, offering a deep insight into his philosophy of non-violence, simplicity, and truth. The Eternal Gandhi Multimedia Gallery engages visitors through interactive technology, showcasing the timeline of his life and struggles for India's independence. The site is a place of reflection, with peaceful gardens and the Martyr's Column marking the spot where Gandhi was assassinated.",
+        "activities": "Exploring Gandhi’s personal belongings, Watching multimedia exhibits, Reflecting at the Martyr's Column",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 0, children: 0, foreigners: 0"
+      },
+      {
+        "name": "National Rail Museum",
+        "url": "https://delhitourism.travel/images/places-to-visit/headers/national-rail-museum-delhi-entry-fee-timings-holidays-reviews-header.jpg",
+        "location": "Chanakyapuri, New Delhi",
+        "description": "The National Rail Museum in New Delhi is a celebration of India’s rich railway heritage. The museum showcases vintage locomotives, carriages, and historical railway artifacts that span over 160 years of Indian rail history. Visitors can explore rare exhibits such as the Fairy Queen, the world’s oldest operational steam locomotive, and the Maharaja of Mysore's personal coach. The museum also offers a toy train ride, an outdoor rail garden, and several interactive exhibits. The museum’s detailed collection of models and railway technology is an engaging way for families and rail enthusiasts to learn about India’s engineering marvels.",
+        "activities": "Exploring vintage trains, Riding the toy train, Learning about railway technology and history",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 50, children: 20, foreigners: 300"
+      },
+      {
+        "name": "Craft Museum",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Exhibit_in_Craft_Museum_New_Delhi-30.JPG/800px-Exhibit_in_Craft_Museum_New_Delhi-30.JPG",
+        "location": "Bhairon Marg, Pragati Maidan, New Delhi",
+        "description": "The National Handicrafts and Handlooms Museum, commonly known as the Craft Museum, is a treasure trove of India’s rich and diverse craft traditions. Located in the heart of New Delhi, the museum showcases a vast collection of traditional crafts, including textiles, pottery, metalwork, and woodwork, from across India. It is an excellent place to explore the country’s cultural diversity, with exhibits ranging from tribal art to Mughal-era textiles. The museum also has a section dedicated to folk art and an open-air exhibition of rural and tribal artifacts. The museum regularly hosts workshops and live demonstrations by skilled artisans, providing a hands-on experience for visitors.",
+        "activities": "Exploring traditional crafts, Learning about Indian textiles and folk art, Participating in workshops",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 20, children: 10, foreigners: 200"
+      },
+      {
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS)",
+        "url": "https://travelogyindia.b-cdn.net/storage/app/upload/prince-of-wales-museum-mumbai.jpg",
+        "location": "11, Dr. G. Deshmukh Marg, Fort, Mumbai",
+        "description": "The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of Wales Museum) is one of Mumbai’s premier museums, showcasing a diverse collection of art, archaeology, and natural history. The museum houses over 50,000 exhibits, including sculptures, artifacts from India’s ancient civilizations, European paintings, and decorative arts. A highlight of the museum is its collection of ancient Indian sculptures, which includes masterpieces from the Gupta period and the Chola dynasty. The museum's colonial architecture and beautifully landscaped gardens add to the charm, making it a must-visit for history enthusiasts and art lovers.",
+        "activities": "Exploring ancient sculptures, Viewing European art, Learning about Indian history and natural history",
+        "opening_time": "10:15 AM",
+        "closing_time": "6:00 PM",
+        "tickets": "adults: 75, children: 25, foreigners: 500"
+      },
+      {
+        "name": "Dr. Bhau Daji Lad Museum",
+        "url": "https://mumbaitourism.travel/images/places-to-visit/headers/dr-bhau-daji-lad-museum-mumbai-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "location": "Byculla, Mumbai",
+        "description": "Dr. Bhau Daji Lad Museum, formerly known as the Victoria and Albert Museum, is dedicated to preserving the city's cultural heritage and craftsmanship. Established in 1855, this museum offers a deep insight into the history, art, and culture of Mumbai, with an impressive collection of decorative arts, historical photographs, and industrial relics. The museum’s galleries display ancient maps of Mumbai, folk and tribal art, textiles, and metalwork. A standout feature is its restoration of the traditional craft of bidriware (metalwork) and its extensive collection of 19th-century photographs that document Mumbai’s evolution.",
+        "activities": "Exploring Mumbai's cultural history, Viewing decorative arts, Learning about historical photography and craftsmanship",
+        "opening_time": "10:00 AM",
+        "closing_time": "6:00 PM",
+        "tickets": "adults: 100, children: 50, foreigners: 300"
+      },
+      {
+        "name": "The Nehru Science Centre",
+        "url": "https://nehrusciencecentre.in/wp-content/uploads/2023/05/NSC-BLDG-NEW.jpg",
+        "location": "Dr. E. Moses Road, Worli, Mumbai",
+        "description": "The Nehru Science Centre is a fascinating destination for science enthusiasts of all ages. Located in the heart of Mumbai, the centre offers a hands-on experience with its interactive exhibits, which cover subjects such as physics, biology, robotics, and space science. The museum’s Science Park features outdoor models of various scientific devices, while the gallery inside offers displays on astronomy, the environment, and the human body. The centre regularly conducts workshops and science shows that encourage children and adults alike to engage with science in an entertaining and educational way.",
+        "activities": "Exploring science exhibits, Watching live science demonstrations, Engaging in workshops",
+        "opening_time": "10:00 AM",
+        "closing_time": "6:00 PM",
+        "tickets": "adults: 60, children: 30, foreigners: 100"
+      },
+      {
+        "name": "The Mani Bhavan Gandhi Museum",
+        "url":" https://www.gpsmycity.com/img/gd_sight/19563.jpg",
+        "location": "Gandhi Nagar, Byculla, Mumbai",
+        "description": "Mani Bhavan is a historic building that played a pivotal role in India's freedom struggle, as it was the residence of Mahatma Gandhi during his visits to Mumbai from 1917 to 1934. The museum showcases memorabilia related to Gandhi’s life and his role in India's independence movement. Exhibits include photographs, letters, and personal items belonging to the Mahatma, as well as a collection of books on his life and philosophies. The museum also houses a library and a photo exhibition documenting his life. Visitors can learn about his peaceful methods of resistance and his impact on India and the world.",
+        "activities": "Exploring Gandhi’s personal belongings, Learning about his role in the freedom movement, Viewing historical photographs and exhibitions",
+        "opening_time": "9:30 AM",
+        "closing_time": "6:30 PM",
+        "tickets": "adults: 20, children: 10, foreigners: 100"
+      },
+      {
+        "name": "Mumbai University and Rajabai Clock Tower",
+        "url": "https://images.mid-day.com/images/images/2023/feb/BMC-to-lose-j_d.jpg",
+        "location": "Fort, Mumbai",
+        "description": "The University of Mumbai is not only one of the oldest universities in India but also home to the iconic Rajabai Clock Tower. This historic tower, built in 1878, is a fine example of Victorian-Gothic architecture and houses the university’s central library. The museum located within the university complex offers visitors a chance to explore the history of education in India, with exhibits on the development of the university system and its role in shaping modern India. The tower offers panoramic views of the city, and its proximity to other historic buildings in the area makes it an essential stop for anyone interested in Mumbai’s architectural history.",
+        "activities": "Exploring the history of education in India, Visiting the Rajabai Clock Tower, Learning about Mumbai’s colonial architecture",
+        "opening_time": "9:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 30, children: 15, foreigners: 150"
+      },
+      {
+        "name": "Indian Museum",
+        "url": "https://kolkatatourism.travel/images/places-to-visit/headers/indian-museum-kolkata-entry-fee-timings-holidays-reviews-header.jpg",
+        "location": "Jawaharlal Nehru Road, Kolkata",
+        "description": "The Indian Museum in Kolkata is the largest and oldest museum in India, established in 1814. Known as the 'Jadu Ghar,' it houses an extensive collection of artifacts, including ancient sculptures, coins, fossils, and Egyptian mummies. The museum spans several galleries, such as the Archaeology, Art, Anthropology, and Geology sections, making it a treasure trove for history and science enthusiasts. Notable exhibits include the Ashoka Pillar replica, Mughal paintings, and prehistoric fossils. The museum serves as a center for education and research, attracting scholars and tourists from across the globe.",
+        "activities": "Exploring ancient artifacts, Viewing Egyptian mummies, Learning about Indian art and history",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 50, children: 20, foreigners: 500"
+      },
+      {
+        "name": "Victoria Memorial",
+        "url": "https://www.thehistoryhub.com/wp-content/uploads/2014/04/Victoria-Memorial-Front-View.jpg",
+        "location": "Queen's Way, Kolkata",
+        "description": "The Victoria Memorial, an iconic structure in Kolkata, serves as a museum dedicated to the history of British India. Built between 1906 and 1921, this grand marble building is surrounded by lush gardens. The museum inside features an extensive collection of paintings, manuscripts, and artifacts from the colonial period. Notable exhibits include portraits of British monarchs, rare books, and historic maps. Visitors can enjoy a light and sound show in the evenings, narrating the history of Kolkata and the British Raj.",
+        "activities": "Exploring colonial-era artifacts, Walking through landscaped gardens, Attending the light and sound show",
+        "opening_time": "10:00 AM",
+        "closing_time": "6:00 PM",
+        "tickets": "adults: 30, children: 10, foreigners: 200"
+      },
+      {
+        "name": "Marble Palace",
+        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d8/0b/c4/side-view-of-marble-palace.jpg?w=1200&h=1200&s=1",
+        "location": "Muktaram Babu Street, Kolkata",
+        "description": "The Marble Palace is a 19th-century mansion that doubles as a private museum showcasing a remarkable collection of sculptures, paintings, and antique furniture. The palace, built in 1835 by Raja Rajendra Mullick, is an architectural marvel featuring intricate marble work and European design elements. Visitors can admire the stunning collection of artworks, including paintings by European masters and Indian artists. The sprawling gardens with rare bird species add to the charm of this heritage site.",
+        "activities": "Admiring European and Indian art, Exploring antique collections, Strolling through gardens",
+        "opening_time": "10:00 AM",
+        "closing_time": "4:00 PM",
+        "tickets": "Free entry, but prior permission is required"
+      },
+      {
+        "name": "Birla Industrial and Technological Museum",
+        "url": "https://kolkatatourism.travel/images/places-to-visit/headers/birla-industrial-and-technological-museum-kolkata-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "location": "Gurusaday Road, Kolkata",
+        "description": "The Birla Industrial and Technological Museum, inaugurated in 1959, is India’s first science museum. It features interactive exhibits on various scientific fields, including physics, biology, and astronomy. Highlights include the coal mine replica, mock-ups of industrial processes, and live science demonstrations. The museum also has a planetarium and conducts workshops for children, making it an educational and engaging destination for visitors of all ages.",
+        "activities": "Exploring science exhibits, Attending live demonstrations, Watching planetarium shows",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:30 PM",
+        "tickets": "adults: 50, children: 20, planetarium: 100"
+      },
+      {
+        "name": "Ashutosh Museum of Indian Art",
+        "url": "https://www.trodly.com/pictures/attraction/5447.jpg",
+        "location": "College Street, Kolkata",
+        "description": "The Ashutosh Museum of Indian Art, located within the University of Calcutta, is the first museum in India dedicated to Indian art. Established in 1937, it houses an impressive collection of traditional and folk art, including terracotta, stone sculptures, textiles, and tribal crafts. The museum offers an in-depth look at India’s artistic heritage, focusing on the diverse cultural traditions of the country. Its emphasis on regional art forms makes it a valuable resource for researchers and art lovers.",
+        "activities": "Exploring Indian folk and tribal art, Learning about regional crafts, Viewing historical sculptures",
+        "opening_time": "10:00 AM",
+        "closing_time": "5:00 PM",
+        "tickets": "adults: 20, children: 10, foreigners: 100"
+      }
+      
+  ]
+  

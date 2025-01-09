@@ -1,0 +1,168 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#forbanner{
+  background: linear-gradient(to left, #e7c898, #817e78);
+}
+#login{
+  background: linear-gradient(to left, #dfe68976, #60d0e3);
+
+}
+#banner1{
+  filter: blur(10%);
+  height: 550px;
+}
+#map{
+  
+  height: 500px;
+  object-fit: cover;
+  filter: blur(3px);
+}
+#mapimg{
+  filter: brightness(0.2) contrast(0.9);
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+    padding-left: 34px;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* .swiper-slide img {
+    display: block;
+    width: 400px;
+    height: 350px;
+    object-fit: cover;
+  } */
+/*introo*/
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  object-fit: cover;
+  
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Home Sweeper */
+/* .swiper-slide img {
+  display: block;
+  width: 100%;
+  height:600px;
+  object-fit: cover;
+  border-radius: 10px;
+} */
+/* about banner*/
+#aboutbnr{
+opacity: 70%;
+filter: brightness(0.2);
+
+
+}
+#star img{
+  width: 18px;
+  height: 18px;
+}
+#profilebg{
+  filter: blur(3px);
+
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
+
+.swiper-slide {
+  font-size: 18px;
+  color: #000;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 40px 60px;
+}
+
+.parallax-bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 130%;
+  height: 100%;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+
+.swiper-slide .title {
+  font-size: 41px;
+  font-weight: 300;
+}
+
+.swiper-slide .subtitle {
+  font-size: 21px;
+}
+
+.swiper-slide .text {
+  font-size: 14px;
+  max-width: 400px;
+  line-height: 1.3;
+}
+#aboutswip .swiper-button-next, .swiper-button-prev {
+  display:none;
+ }
+ #hero1 img{
+  filter:contrast(0.2);
+  filter: brightness(0.4);
+}
+
+#hero{
+  background-image: url("./assets/hero.jpg");
+}
+#avatar img{
+   height:100px;
+   width:auto;
+   border: 2px solid rgb(33, 32, 32);
+   border-radius: 50%;
+}
+df-messenger {
+  --df-messenger-bot-message: #878fac;
+  --df-messenger-button-titlebar-color: #df9b56;
+  --df-messenger-chat-background-color: #fafafa;
+  --df-messenger-font-color: white;
+  --df-messenger-send-icon: #878fac;
+  --df-messenger-user-message: #479b3d;
+}
+.mySwipers{
+  background:white;
+}
+.mySwipers SwiperSlide{
+  width:350px;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  object-fit: cover;
+}
+.mySwipers img{
+  width: 440px;
+  height: 250px;
+}

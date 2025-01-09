@@ -1,0 +1,53 @@
+[
+    {  "id":"1",
+        "url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Ashmolean_Museum_in_July_2014.jpg",
+        "title":"Mumbai Museum",
+        "description":"As you see it is really easy to integrate Swiper into your website or app. So here are your next steGo to API Documentation to learn more Look at available Demos",
+        "Time":"10:15-4:00PM",
+        "Location":"Bangalore karnataka",
+        "Ticket":"From Rs 50-150"
+    },
+    {   "id":"2",
+        "url":"https://i.dailymail.co.uk/1s/2024/04/16/08/83694287-13313279-image-a-18_1713251594160.jpg",
+        "title":"Bengaluru Museum",
+        "Time":"10:30-4:00PM",
+        "Location":"Bangalore karnataka",
+        "Ticket":"From Rs 40-150",
+        "description":"As you see it is really easy to integrate Swiper into your website or app. So here are your next steGo to API Documentation to learn more Look at available Demos"
+
+    },
+    {
+        "id":"3",
+        "url":"https://a.cdn-hotels.com/gdcs/production156/d1550/53d1e236-8741-4a96-a375-4b59498d2931.jpg",
+        "title":"Lukhnow Museum",
+        "Time":"12:15-4:00PM",
+        "Location":"Bangalore karnataka",
+        "Ticket":"From Rs 40-150",
+        "description":"As you see it is really easy to integrate Swiper into your website or app. So here are your next steGo to API Documentation to learn more Look at available Demos"
+    },
+    {   "id":"4",
+        "url":"https://images.squarespace-cdn.com/content/v1/56c13cc00442627a08632989/1585432288121-15NNGMB5XEP5CJ1YSGL3/egyptianmuseum.jpg",
+        "title":"Egyptian Museum",
+        "Time":"11:25-4:00PM",
+        "Location":"Bangalore karnataka",
+        "Ticket":"From Rs 50-150",
+        "description":"As you see it is really easy to integrate Swiper into your website or app. So here are your next steGo to API Documentation to learn more Look at available Demos"
+    },
+    {  "id":"5",
+    "url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Ashmolean_Museum_in_July_2014.jpg",
+    "title":"New Delhi Museum",
+    "Time":"10:15-4:00PM",
+    "Location":"Bangalore karnataka",
+    "Ticket":"From Rs 50-150",
+    "description":"As you see it is really easy to integrate Swiper into your website or app. So here are your next steGo to API Documentation to learn more Look at available Demos"
+},
+    {
+        "id":"6",
+        "url":"https://a.cdn-hotels.com/gdcs/production156/d1550/53d1e236-8741-4a96-a375-4b59498d2931.jpg",
+        "title":"Pune Museum",
+        "Time":"10:45-4:00PM",
+        "Location":"Bangalore karnataka",
+        "Ticket":"From Rs 50-150",
+        "description":"As you see it is really easy to integrate Swiper into your website or app. So here are your next steGo to API Documentation to learn more Look at available Demos"
+    }
+]
