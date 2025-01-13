@@ -6,11 +6,10 @@
   "scripts": {
     "start": "5005",
     "dev": "vite",
+    "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-     "build": "react-scripts build"
-}
-
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "@emotion/react": "^11.13.5",
