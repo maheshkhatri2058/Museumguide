@@ -55,13 +55,6 @@ const About = () => {
       {/*chatbot*/}
        <div>
       <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-    <df-messenger
-      intent="Welcome"
-      chat-title="musey-chatbot"
-      agent-id="af7e29ba-8b3c-49fe-b22b-5052e147e0f5"
-      language-code="en"
-      chat-icon="https://cdn-icons-png.flaticon.com/512/8943/8943377.png"
-    ></df-messenger>
       </div>
       {/*Features section*/}
       <h2 className='text-2xl font-bold text-center bg-white  text-orange-700 p-6'>Features of Mymusey</h2>
@@ -92,6 +85,7 @@ const About = () => {
      
       
       <h2 className='text-2xl text-center font-bold bg-white text-orange-600 p-4'>Our Custumer Reviews</h2>
+  
      <div id='aboutswip'>
       <Swiper
         spaceBetween={30}

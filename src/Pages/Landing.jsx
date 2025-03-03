@@ -167,15 +167,6 @@ function Landing() {
       {/* Chatbot */}
       <div>
       <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-    <df-messenger
-      intent="Welcome"
-      chat-title="musey-chatbot"
-      agent-id="af7e29ba-8b3c-49fe-b22b-5052e147e0f5"
-      language-code="en"
-      chat-icon="https://cdn-icons-png.flaticon.com/512/8943/8943377.png"
-    ></df-messenger>
-
-
       </div>
 
       {/* Highly Recommended Section */}
